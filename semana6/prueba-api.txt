@@ -1,0 +1,5 @@
+El servidor devuelve un mensaje de confirmación indicando que recibió correctamente la informacion
+enviada.
+
+primero toma los valores enviados en la peticion, despues responde con un objeto JSON que 
+confirman que los datos fueron recibidos.
